@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>首页</string>
+		<key>normalName</key>
+		<string>ic_tabbar_home</string>
+		<key>selectedName</key>
+		<string>ic_tabbar_home_select</string>
+		<key>vc</key>
+		<string>HomeViewController</string>
+		<key>vm</key>
+		<string>DBHomeVM</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>书影音</string>
+		<key>normalName</key>
+		<string>ic_tabbar_profile</string>
+		<key>selectedName</key>
+		<string>ic_tabbar_profile_select</string>
+		<key>vc</key>
+		<string>BookViewController</string>
+		<key>vm</key>
+		<string>DBBookVM</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>广播</string>
+		<key>normalName</key>
+		<string>ic_tabbar_explore</string>
+		<key>selectedName</key>
+		<string>ic_tabbar_explore_select</string>
+		<key>vc</key>
+		<string>BroadCastViewController</string>
+		<key>vm</key>
+		<string>DBBroadCastVM</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>小组</string>
+		<key>normalName</key>
+		<string>TabBar_me_boy_normal</string>
+		<key>selectedName</key>
+		<string>TabBar_me_boy_selected</string>
+		<key>vc</key>
+		<string>GroupViewController</string>
+		<key>vm</key>
+		<string>DBGroupVM</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>我的</string>
+		<key>normalName</key>
+		<string>ic_tabbar_me</string>
+		<key>selectedName</key>
+		<string>ic_tabbar_me_select</string>
+		<key>vc</key>
+		<string>MeViewController</string>
+		<key>vm</key>
+		<string>DBMeVM</string>
+	</dict>
+</array>
+</plist>

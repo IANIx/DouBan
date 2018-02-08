@@ -1,0 +1,159 @@
+{
+    "interval": 1800,
+    "ads": [{
+            "video_start_monitor_urls": [],
+            "ad_place": ["splash_screen", "splash_resume"],
+            "ad_id": "192642",
+            "ad_content_url": ["https://img3.doubanio.com\/view\/dale-online\/dale_ad\/public\/945c706081ee6c5.jpg"],
+            "is_jump": true,
+            "video_complete_monitor_urls": [],
+            "max_per_day": 0,
+            "ad_monitor_url": "https:\/\/ad.doubleclick.net\/ddm\/trackimp\/N4517.149184.DOUBAN\/B20695653.213617103;dc_trk_aid=412671077;dc_trk_cid=97477748;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?",
+            "ad_type": "common",
+            "ad_redirect_url": "https:\/\/erebor.douban.com\/redirect\/?ad=192642&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&sig=8e87193c45ef722589e9702b68d1431b18144f039e4e85a5fb2281c4f23882c48c28705ed31ff61af8e0119f8c79028ae231dee34f0ff704fd311ce2ee5a11f5&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&screen_width=750&screen_height=1334&target=aHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL040NTE3LjE0OTE4NC5ET1VCQU4vQjIwNjk1NjUzLjIxMzYxNzEwMztkY190cmtfYWlkPTQxMjY3MTA3NztkY190cmtfY2lkPTk3NDc3NzQ4O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9P2h0dHBzOi8vaXR1bmVzLmFwcGxlLmNvbS9zdG9yeS9pZDEzMjc3MTc3OTc\/aXRzY2c9YXMxMDAxMCZpdHNjdD1DTllfU0MwNF9QVDAyMV9DTl9TSTEzMjc3MTc3OTdfU1AwMV9DVDAxJmF0PTEwMDFsdkNaJmN0PUNOWV9TQzA0X1BUMDIxX0NOX1NJMTMyNzcxNzc5N18wMjA3MThfREI=&dumpling=&apple=&mooncake=0F607264FC6318A92B9E13C65DB7CD3C&icecream=&onion=2355cc5d4bc3660e60ce008e558c1e98020d193c",
+            "video_mid_monitor_urls": [],
+            "ad_video_url": "",
+            "monitor_urls": ["https:\/\/ad.doubleclick.net\/ddm\/trackimp\/N4517.149184.DOUBAN\/B20695653.213617103;dc_trk_aid=412671077;dc_trk_cid=97477748;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?", "https:\/\/erebor.douban.com\/count\/?ad=192642&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&ns=1517977264327597807&type=impression&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&req_id=678087067863451db5a776aaaf60f1a1&app_timestamp=[timestamp]"],
+            "start_logging_url_host": "erebor.douban.com",
+            "show_ad_mark": 1,
+            "time_span": {
+            "start": "2018-02-07 00:00:00 +0800 CST",
+            "end": "2018-02-07 23:59:00 +0800 CST"
+            },
+            "ad_duration": 3000,
+            "is_clickable": 1
+            }, {
+            "video_start_monitor_urls": [],
+            "ad_place": ["splash_screen"],
+            "ad_id": "192751",
+            "ad_content_url": ["https://img3.doubanio.com\/view\/dale-online\/dale_ad\/public\/dfa60592bce6ac2.jpg"],
+            "is_jump": false,
+            "video_complete_monitor_urls": [],
+            "max_per_day": 0,
+            "ad_monitor_url": "",
+            "ad_type": "common",
+            "ad_redirect_url": "https:\/\/erebor.douban.com\/redirect\/?ad=192751&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&sig=3660c201830d35a9532501e29a62bd6530466fd5caef9f6898a8610470312a5cf1fe2823a0ca229e94d2113268454327b2c5e4b6a87423a807803352995ffe99&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&screen_width=750&screen_height=1334&target=aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9waG90b3MvcGhvdG8vMjIxNDU2NjU0MC8=&dumpling=&apple=&mooncake=0F607264FC6318A92B9E13C65DB7CD3C&icecream=&onion=2355cc5d4bc3660e60ce008e558c1e98020d193c",
+            "video_mid_monitor_urls": [],
+            "ad_video_url": "",
+            "monitor_urls": ["", "https:\/\/erebor.douban.com\/count\/?ad=192751&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&ns=1517977264328051546&type=impression&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&req_id=678087067863451db5a776aaaf60f1a1&app_timestamp=[timestamp]"],
+            "start_logging_url_host": "erebor.douban.com",
+            "show_ad_mark": 0,
+            "time_span": {
+            "start": "2018-02-11 00:00:00 +0800 CST",
+            "end": "2018-02-11 23:59:00 +0800 CST"
+            },
+            "ad_duration": 3000,
+            "is_clickable": 1
+            }, {
+            "video_start_monitor_urls": [],
+            "ad_place": ["splash_screen", "splash_resume"],
+            "ad_id": "192749",
+            "ad_content_url": ["https://img3.doubanio.com\/view\/dale-online\/dale_ad\/public\/bc8913a3fbb28f3.jpg"],
+            "is_jump": true,
+            "video_complete_monitor_urls": [],
+            "max_per_day": 0,
+            "ad_monitor_url": "",
+            "ad_type": "common",
+            "ad_redirect_url": "https:\/\/erebor.douban.com\/redirect\/?ad=192749&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&sig=7b0492b42b1a99e48d9de88038c35b8cf89afa0dbebaaca67cdc30fbcf24b6291c0ebc5fc58c5dfd5260372e4d14f01197de5cd40c4cabf59f96e9ed6556299b&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&screen_width=750&screen_height=1334&target=aHR0cHM6Ly9tLmRvdWJhbi5jb20vdGltZS9jb2x1bW4vNTcvP2R0X3RpbWVfc291cmNlPWRvdWJhbi1zcGxhc2g=&dumpling=&apple=&mooncake=0F607264FC6318A92B9E13C65DB7CD3C&icecream=&onion=2355cc5d4bc3660e60ce008e558c1e98020d193c",
+            "video_mid_monitor_urls": [],
+            "ad_video_url": "",
+            "monitor_urls": ["", "https:\/\/erebor.douban.com\/count\/?ad=192749&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&ns=1517977264328324723&type=impression&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&req_id=678087067863451db5a776aaaf60f1a1&app_timestamp=[timestamp]"],
+            "start_logging_url_host": "erebor.douban.com",
+            "show_ad_mark": 1,
+            "time_span": {
+            "start": "2018-02-09 00:00:00 +0800 CST",
+            "end": "2018-02-09 23:59:00 +0800 CST"
+            },
+            "ad_duration": 3000,
+            "is_clickable": 1
+            }, {
+            "video_start_monitor_urls": [],
+            "ad_place": ["splash_screen"],
+            "ad_id": "192740",
+            "ad_content_url": ["https://img3.doubanio.com\/view\/dale-online\/dale_ad\/public\/87b399f24859183.jpg"],
+            "is_jump": false,
+            "video_complete_monitor_urls": [],
+            "max_per_day": 0,
+            "ad_monitor_url": "",
+            "ad_type": "common",
+            "ad_redirect_url": "https:\/\/erebor.douban.com\/redirect\/?ad=192740&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&sig=2535661fc4ec7cc36399772dff0ac9140289d80824063b79778c0fc4ce2146fb1bf91425ea321741935878dd6f7b1f8365a4008b7f08db97c5677b244deb0019&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&screen_width=750&screen_height=1334&target=aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9waG90b3MvcGhvdG8vMjUwNjUzMTk4OC8=&dumpling=&apple=&mooncake=0F607264FC6318A92B9E13C65DB7CD3C&icecream=&onion=2355cc5d4bc3660e60ce008e558c1e98020d193c",
+            "video_mid_monitor_urls": [],
+            "ad_video_url": "",
+            "monitor_urls": ["", "https:\/\/erebor.douban.com\/count\/?ad=192740&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&ns=1517977264328642121&type=impression&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&req_id=678087067863451db5a776aaaf60f1a1&app_timestamp=[timestamp]"],
+            "start_logging_url_host": "erebor.douban.com",
+            "show_ad_mark": 0,
+            "time_span": {
+            "start": "2018-02-09 00:00:00 +0800 CST",
+            "end": "2018-02-09 23:59:00 +0800 CST"
+            },
+            "ad_duration": 3000,
+            "is_clickable": 1
+            }, {
+            "video_start_monitor_urls": [],
+            "ad_place": ["splash_screen", "splash_resume"],
+            "ad_id": "192697",
+            "ad_content_url": ["https://img3.doubanio.com\/view\/dale-online\/dale_ad\/public\/945c706081ee6c5.jpg"],
+            "is_jump": true,
+            "video_complete_monitor_urls": [],
+            "max_per_day": 0,
+            "ad_monitor_url": "https:\/\/ad.doubleclick.net\/ddm\/trackimp\/N4517.149184.DOUBAN\/B20695653.213617103;dc_trk_aid=412671077;dc_trk_cid=97477748;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?",
+            "ad_type": "common",
+            "ad_redirect_url": "https:\/\/erebor.douban.com\/redirect\/?ad=192697&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&sig=2d41f7eb95cc2da7b8e4a73b7a89878fc90159874595cdcc590ecd00ba7f59371f75e197492dd6902f413ac158139003a8c38da619324c767ab7208809ead82c&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&screen_width=750&screen_height=1334&target=aHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL040NTE3LjE0OTE4NC5ET1VCQU4vQjIwNjk1NjUzLjIxMzYxNzEwMztkY190cmtfYWlkPTQxMjY3MTA3NztkY190cmtfY2lkPTk3NDc3NzQ4O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9P2h0dHBzOi8vaXR1bmVzLmFwcGxlLmNvbS9zdG9yeS9pZDEzMjc3MTc3OTc\/aXRzY2c9YXMxMDAxMCZpdHNjdD1DTllfU0MwNF9QVDAyMV9DTl9TSTEzMjc3MTc3OTdfU1AwMV9DVDAxJmF0PTEwMDFsdkNaJmN0PUNOWV9TQzA0X1BUMDIxX0NOX1NJMTMyNzcxNzc5N18wMjA3MThfREI=&dumpling=&apple=&mooncake=0F607264FC6318A92B9E13C65DB7CD3C&icecream=&onion=2355cc5d4bc3660e60ce008e558c1e98020d193c",
+            "video_mid_monitor_urls": [],
+            "ad_video_url": "",
+            "monitor_urls": ["https:\/\/ad.doubleclick.net\/ddm\/trackimp\/N4517.149184.DOUBAN\/B20695653.213617103;dc_trk_aid=412671077;dc_trk_cid=97477748;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?", "https:\/\/erebor.douban.com\/count\/?ad=192697&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&ns=1517977264328946656&type=impression&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&req_id=678087067863451db5a776aaaf60f1a1&app_timestamp=[timestamp]"],
+            "start_logging_url_host": "erebor.douban.com",
+            "show_ad_mark": 1,
+            "time_span": {
+            "start": "2018-02-10 00:00:00 +0800 CST",
+            "end": "2018-02-10 23:59:59 +0800 CST"
+            },
+            "ad_duration": 3000,
+            "is_clickable": 1
+            }, {
+            "video_start_monitor_urls": [],
+            "ad_place": ["splash_screen", "splash_resume"],
+            "ad_id": "191635",
+            "ad_content_url": ["https://img3.doubanio.com\/view\/dale-online\/dale_ad\/public\/aa6b5d91f8572a5.jpg"],
+            "is_jump": true,
+            "video_complete_monitor_urls": [],
+            "max_per_day": 0,
+            "ad_monitor_url": "https:\/\/g.cn.miaozhen.com\/x\/k=2066856&p=7Bi2k&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=2355cc5d4bc3660e60ce008e558c1e98020d193c&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=0F607264FC6318A92B9E13C65DB7CD3C&o=",
+            "ad_type": "common",
+            "ad_redirect_url": "https:\/\/erebor.douban.com\/redirect\/?ad=191635&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&sig=4b1bea4a562c1ff1fd76da4daf9b8ba43254b497406d4357db05caf35754fffc2863205d44a33f2bca9b1333fb28603d6af92ab290f0fbd04d583dea7705ae5e&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&screen_width=750&screen_height=1334&target=aHR0cHM6Ly9lLmNuLm1pYW96aGVuLmNvbS9yL2s9MjA2Njg1NiZwPTdCaTJrJmR4PV9fSVBEWF9fJnJ0PTImbnM9MjcuMzguMzIuNTgmbmk9X19JRVNJRF9fJnY9X19MT0NfXyZ4YT1fX0FEUExBVEZPUk1fXyZ0cj1fX1JFUVVFU1RJRF9fJm1vPTEmbTA9MjM1NWNjNWQ0YmMzNjYwZTYwY2UwMDhlNTU4YzFlOTgwMjBkMTkzYyZtMGE9X19EVUlEX18mbTE9X19BTkRST0lESUQxX18mbTFhPSZtMj0mbTQ9X19BQUlEX18mbTU9Jm02PV9fTUFDMV9fJm02YT0wRjYwNzI2NEZDNjMxOEE5MkI5RTEzQzY1REI3Q0QzQyZvPWh0dHBzOi8vYml6cGFnZS5kb3ViYW4uY29tL3RvbmdzaHVhaQ==&dumpling=&apple=&mooncake=0F607264FC6318A92B9E13C65DB7CD3C&icecream=&onion=2355cc5d4bc3660e60ce008e558c1e98020d193c",
+            "video_mid_monitor_urls": [],
+            "ad_video_url": "",
+            "monitor_urls": ["https:\/\/g.cn.miaozhen.com\/x\/k=2066856&p=7Bi2k&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=2355cc5d4bc3660e60ce008e558c1e98020d193c&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=0F607264FC6318A92B9E13C65DB7CD3C&o=", "https:\/\/erebor.douban.com\/count\/?ad=191635&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&ns=1517977264329299930&type=impression&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&req_id=678087067863451db5a776aaaf60f1a1&app_timestamp=[timestamp]"],
+            "start_logging_url_host": "erebor.douban.com",
+            "show_ad_mark": 1,
+            "time_span": {
+            "start": "2018-02-12 00:00:00 +0800 CST",
+            "end": "2018-02-12 23:59:59 +0800 CST"
+            },
+            "ad_duration": 3000,
+            "is_clickable": 1
+            }, {
+            "video_start_monitor_urls": [],
+            "ad_place": ["splash_screen", "splash_resume"],
+            "ad_id": "191529",
+            "ad_content_url": ["https://img3.doubanio.com\/view\/dale-online\/dale_ad\/public\/f5856b5696c69de.jpg"],
+            "is_jump": true,
+            "video_complete_monitor_urls": [],
+            "max_per_day": 0,
+            "ad_monitor_url": "",
+            "ad_type": "common",
+            "ad_redirect_url": "https:\/\/erebor.douban.com\/redirect\/?ad=191529&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&sig=1bb7c23563515ba49017b04c57e092f960dc965f666dfaa1eeef39462e2c960a6ad610912081b97aebff5b128b47552fd3e48d37886b0a390aea73520f9b666e&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&screen_width=750&screen_height=1334&target=aHR0cDovL3QyLjE2My5jb20vbS9mYWIvZGYv&dumpling=&apple=&mooncake=0F607264FC6318A92B9E13C65DB7CD3C&icecream=&onion=2355cc5d4bc3660e60ce008e558c1e98020d193c",
+            "video_mid_monitor_urls": [],
+            "ad_video_url": "",
+            "monitor_urls": ["", "https:\/\/erebor.douban.com\/count\/?ad=191529&uid=&bid=2355cc5d4bc3660e60ce008e558c1e98020d193c&unit=dale_dacp_douban&crtr=&mark=&hn=daisy9b&ns=1517977264329680192&type=impression&pid=debug_740b07978e55b4fdb30b872fe9d8b5b34b0896cc&req_id=678087067863451db5a776aaaf60f1a1&app_timestamp=[timestamp]"],
+            "start_logging_url_host": "erebor.douban.com",
+            "show_ad_mark": 1,
+            "time_span": {
+            "start": "2018-02-14 00:00:00 +0800 CST",
+            "end": "2018-02-14 23:59:00 +0800 CST"
+            },
+            "ad_duration": 3000,
+            "is_clickable": 1
+            }],
+    "sleep_time": 1
+}

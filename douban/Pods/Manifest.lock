@@ -1,0 +1,15 @@
+PODS:
+  - ObjectMapper (3.1.0)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - ObjectMapper
+  - SnapKit (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 854d4b69327b4ca08d4c33e1eadc6ac4915265ec
+
+COCOAPODS: 1.4.0
