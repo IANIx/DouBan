@@ -31,15 +31,15 @@ class HomeViewController: DBViewController,UITableViewDelegate,UITableViewDataSo
     
     func subViews() {
         self.navigationController?.navigationBar.barTintColor = MAIN_COLOR
-
-        self.tableView = UITableView.init(frame: self.view.frame, style: .grouped)
-        self.tableView?.delegate = self
-        self.tableView?.dataSource = self
-        self.tableView.separatorStyle = .none
-        self.tableView.backgroundColor = UIColor.white
-        self.tableView.register(HomeTableViewCell.self, forCellReuseIdentifier: "cell")
+//        self.additionalSafeAreaInsets = UIEdgeInsetsMake(-40, 0, 0, 0)
+        tableView = UITableView.init(frame: self.view.frame, style: .grouped)
+        tableView?.delegate = self
+        tableView?.dataSource = self
+        tableView.separatorStyle = .none
+        tableView.backgroundColor = UIColor.white
+        tableView.register(HomeTableViewCell.self, forCellReuseIdentifier: "cell")
       
-        self.view.addSubview(self.tableView)
+        self.view.addSubview(tableView)
         
         tableView.snp.makeConstraints { (make) in
             make.left.top.bottom.right.equalTo(self.view)
@@ -87,6 +87,12 @@ class HomeViewController: DBViewController,UITableViewDelegate,UITableViewDataSo
         cell.setLayout(layout: layout)
         
         return cell
+    }
+    func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
+        return 0.00001;
+    }
+    func tableView(_ tableView: UITableView, heightForFooterInSection section: Int) -> CGFloat {
+        return 0.00001;
     }
     /*
     // MARK: - Navigation
